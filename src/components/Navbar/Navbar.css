@@ -1,0 +1,24 @@
+.navbar-me {
+  background-color: #f44336;
+  border-color: none;
+  border: none;
+  margin-bottom: 0px;
+  height: 12vh;
+  padding-top: 15px;
+}
+
+#brand-image {
+  height: 7vh;
+}
+
+.navbar {
+  border-radius: 0px;
+}
+
+.navbar-default .navbar-nav > li > a {
+  color: white;
+}
+
+.navbar-default .navbar-brand {
+  color: white;
+}
