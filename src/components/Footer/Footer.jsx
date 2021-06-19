@@ -1,13 +1,18 @@
 import React from 'react';
 
-import './PizzaTypes.css'
+import './Footer.css'
 
-const PizzaTypes = () => {
+const Footer = () => {
     return (
-        <div>
-            PizzaTypes
+        <div className="footer">
+            <div className="container">
+                <div className="row">
+                    <p className="text-center">&#169CopyRights 2021 PizzaMania All Rights Reserved.</p>
+                </div>
+            </div>
         </div>
+
     );
 }
 
-export default PizzaTypes;
+export default Footer;
